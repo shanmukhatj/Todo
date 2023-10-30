@@ -1,2 +1,2 @@
 # todo
-https://shanmukhatj.github.io/todo/todo-app/index.html
+https://shanmukhatj.github.io/Todo/todo-app/index.html
